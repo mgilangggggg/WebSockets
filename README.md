@@ -10,7 +10,7 @@
 ## Instalation
 1. clone this project
 2. cp .env.example to .env
-3. setting databas in .env
+3. setting database in .env
 4. run php artisan migrate
 5. run php artisan key:generate
 
